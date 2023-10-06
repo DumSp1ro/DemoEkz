@@ -1,0 +1,88 @@
+﻿<Window x:Class="Style.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Style"
+        mc:Ignorable="d"
+        Title="Style" Height="450" Width="800">
+    <Grid ShowGridLines="True" Background="IndianRed">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="225"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <StackPanel Grid.Column="0">
+            <Button Margin="0,50,0,0" Name="Menu" Style="{StaticResource MenuButton}">
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="/Icons/dashboard2.png"/>
+                    <TextBlock VerticalAlignment="Center" Margin="20,0,0,0">Dashboard</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button Style="{StaticResource MenuButton}">
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="/Icons/book.png"/>
+                    <TextBlock VerticalAlignment="Center" Margin="20,0,0,0">Lessons</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button Style="{StaticResource MenuButton}">
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="/Icons/finance.png"/>
+                    <TextBlock VerticalAlignment="Center" Margin="20,0,0,0">Finance</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button Style="{StaticResource MenuButton}">
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="/Icons/students.png"/>
+                    <TextBlock VerticalAlignment="Center" Margin="20,0,0,0">Students</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button Style="{StaticResource MenuButton}">
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="/Icons/messages.png"/>
+                    <TextBlock VerticalAlignment="Center" Margin="20,0,0,0">Messages</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button Style="{StaticResource MenuButton}">
+                <StackPanel Orientation="Horizontal" >
+                    <Image Source="/Icons/reviews.png"/>
+                    <TextBlock VerticalAlignment="Center" Margin="20,0,0,0">Reviews</TextBlock>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <Button VerticalAlignment="Bottom"  Style="{StaticResource MenuButton}">
+            <StackPanel Orientation="Horizontal" >
+                <Image Source="/Icons/setting.png"/>
+                <TextBlock VerticalAlignment="Center" Margin="20,0,0,0">Settings</TextBlock>
+            </StackPanel>
+        </Button>
+
+        <Grid Grid.Column="1" Background="Silver">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150"></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Row="0" VerticalAlignment="Center" Margin="10,0,0,0">
+                <TextBlock FontSize="20">What do you want</TextBlock>
+                <TextBlock FontSize="20">to learn today?</TextBlock>
+            </StackPanel>
+            
+            <StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Width="60" Height="60" Style="{StaticResource WhiteButton}">
+                    <Image Width="25" Height="25" Source="/Icons/poisk.png"/>
+                </Button>
+                <Button Width="60" Height="60" Style="{StaticResource WhiteButton}">
+                    <Image Width="25" Height="25" Source="/Icons/users.png"/>
+                </Button>
+                
+            </StackPanel>
+        </Grid>
+        
+    </Grid>
+</Window>
