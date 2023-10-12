@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\Ekzamen\DumSp1ro\DemoEkz\Каркас приложений\BookClub\App.xaml
-6-1330593106
+11-233244319
 2-1223955081
-24-608155462
+29721102323
 18-1685270603
-MainWindow.xaml;Pages\admin.xaml;Pages\avtorizacia.xaml;Pages\manag.xaml;Pages\registr.xaml;Pages\user.xaml;
+CheckOneOrder.xaml;MainWindow.xaml;OrderWindow.xaml;Pages\admin.xaml;Pages\avtorizacia.xaml;Pages\Katalog.xaml;Pages\manag.xaml;Pages\redOrders.xaml;Pages\registr.xaml;Pages\TalonOrder.xaml;Pages\user.xaml;
 
-False
+True
 

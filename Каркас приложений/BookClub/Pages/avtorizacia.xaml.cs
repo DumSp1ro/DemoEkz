@@ -47,15 +47,18 @@ namespace BookClub.Pages
             {
                 if (userObj.id_type == 1)
                 {
-                    manager.MainFrame.Navigate(new admin());
+                    manager.MainFrame.Navigate(new Katalog());
                 }
                 else if (userObj.id_type == 2)
                 {
-                    manager.MainFrame.Navigate(new manag());
+                    //manager.MainFrame.Navigate(new manag());
+                    OrderWindow orderWindow = new OrderWindow();
+                    orderWindow.Show();
+
                 }
                 else if (userObj.id_type == 3)
                 {
-                    manager.MainFrame.Navigate(new user());
+                    manager.MainFrame.Navigate(new Katalog());
                 }
             }
         }

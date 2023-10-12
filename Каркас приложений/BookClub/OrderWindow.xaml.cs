@@ -12,26 +12,29 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace BookClub
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для OrderWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class OrderWindow : Window
     {
-        public MainWindow()
+        public OrderWindow()
         {
             InitializeComponent();
-            MainFrame.Navigate(new Katalog());
             manager.MainFrame = MainFrame;
         }
 
-        private void autorizacia(object sender, RoutedEventArgs e)
+        private void redOrder(object sender, RoutedEventArgs e)
         {
-            MainFrame.Navigate(new avtorizacia());
+            MainFrame.Navigate(new redOrders());
+        }
+
+        private void GoKatalog(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new Katalog());
         }
     }
 }

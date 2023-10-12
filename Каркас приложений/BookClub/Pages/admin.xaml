@@ -19,11 +19,11 @@
                 <DataGridTextColumn Header="id" Binding="{Binding id}" Width="90"/>
                 <DataGridTextColumn Header="login" Binding="{Binding login}" Width="120"/>
                 <DataGridTextColumn Header="password" Binding="{Binding password}" Width="120"/>
-                <DataGridTextColumn Header="idtype" Binding="{Binding idtype}" Width="120"/>
+                <DataGridTextColumn Header="idtype" Binding="{Binding id_type}" Width="120"/>
                 <DataGridTemplateColumn Width="auto">
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
-                            <Button Name="UserEdit" Width="120" Content="Редактировать" Padding="10 5" Margin="10 5" Click="UserEdit"/>
+                            <Button Name="UserEdit" Width="150" Content="Редактировать" Padding="10 5" Margin="10 5" Click="UserEdit"/>
                         </DataTemplate>
                     </DataGridTemplateColumn.CellTemplate>
                 </DataGridTemplateColumn>

@@ -32,3 +32,13 @@ D:\Ekzamen\DumSp1ro\DemoEkz\Каркас приложений\BookClub\obj\Debug
 D:\Ekzamen\DumSp1ro\DemoEkz\Каркас приложений\BookClub\obj\Debug\BookClub.csproj.CopyComplete
 D:\Ekzamen\DumSp1ro\DemoEkz\Каркас приложений\BookClub\obj\Debug\BookClub.exe
 D:\Ekzamen\DumSp1ro\DemoEkz\Каркас приложений\BookClub\obj\Debug\BookClub.pdb
+D:\Ekzamen\DumSp1ro\DemoEkz\Каркас приложений\BookClub\obj\Debug\Pages\Katalog.g.cs
+D:\Ekzamen\DumSp1ro\DemoEkz\Каркас приложений\BookClub\obj\Debug\Pages\Katalog.baml
+D:\Ekzamen\DumSp1ro\DemoEkz\Каркас приложений\BookClub\obj\Debug\CheckOneOrder.g.cs
+D:\Ekzamen\DumSp1ro\DemoEkz\Каркас приложений\BookClub\obj\Debug\CheckOneOrder.baml
+D:\Ekzamen\DumSp1ro\DemoEkz\Каркас приложений\BookClub\obj\Debug\Pages\TalonOrder.g.cs
+D:\Ekzamen\DumSp1ro\DemoEkz\Каркас приложений\BookClub\obj\Debug\Pages\TalonOrder.baml
+D:\Ekzamen\DumSp1ro\DemoEkz\Каркас приложений\BookClub\obj\Debug\OrderWindow.g.cs
+D:\Ekzamen\DumSp1ro\DemoEkz\Каркас приложений\BookClub\obj\Debug\Pages\redOrders.g.cs
+D:\Ekzamen\DumSp1ro\DemoEkz\Каркас приложений\BookClub\obj\Debug\OrderWindow.baml
+D:\Ekzamen\DumSp1ro\DemoEkz\Каркас приложений\BookClub\obj\Debug\Pages\redOrders.baml

@@ -1,6 +1,4 @@
-﻿using BookClub.Classes;
-using BookClub.Pages;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,23 +13,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace BookClub
+namespace BookClub.Pages
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для redOrders.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class redOrders : Page
     {
-        public MainWindow()
+        public redOrders()
         {
             InitializeComponent();
-            MainFrame.Navigate(new Katalog());
-            manager.MainFrame = MainFrame;
-        }
-
-        private void autorizacia(object sender, RoutedEventArgs e)
-        {
-            MainFrame.Navigate(new avtorizacia());
         }
     }
 }

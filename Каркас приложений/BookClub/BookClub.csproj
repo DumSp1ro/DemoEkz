@@ -34,6 +34,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>book_icon_158035.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
@@ -64,6 +67,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="CheckOneOrder.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -72,12 +79,19 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="CheckOneOrder.xaml.cs">
+      <DependentUpon>CheckOneOrder.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Classes\connect.cs" />
     <Compile Include="Classes\manager.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="OrderWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Pages\admin.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -86,11 +100,23 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Pages\Katalog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Pages\manag.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Pages\redOrders.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Pages\registr.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\TalonOrder.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -139,17 +165,29 @@
     <Compile Include="Models\users.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="OrderWindow.xaml.cs">
+      <DependentUpon>OrderWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Pages\admin.xaml.cs">
       <DependentUpon>admin.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\avtorizacia.xaml.cs">
       <DependentUpon>avtorizacia.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Pages\Katalog.xaml.cs">
+      <DependentUpon>Katalog.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Pages\manag.xaml.cs">
       <DependentUpon>manag.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Pages\redOrders.xaml.cs">
+      <DependentUpon>redOrders.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Pages\registr.xaml.cs">
       <DependentUpon>registr.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\TalonOrder.xaml.cs">
+      <DependentUpon>TalonOrder.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\user.xaml.cs">
       <DependentUpon>user.xaml</DependentUpon>
@@ -191,6 +229,7 @@
     <Resource Include="Res\book.png" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="book_icon_158035.ico" />
     <Content Include="Models\Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>Model1.edmx</DependentUpon>
