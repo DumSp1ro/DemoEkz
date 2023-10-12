@@ -1,6 +1,6 @@
 [тыкнуть](https://drive.google.com/drive/folders/1qhswamR6csTjEKSsXQXTGeW_ZVC2LK1t?usp=sharing)
 
-
+[файл](https://docs.google.com/document/d/1UzpvRNEQiYhADNuPrN1AM5ys72KEs7A1y0EMZfrCERs/edit?usp=sharing)
 
 ---
 
