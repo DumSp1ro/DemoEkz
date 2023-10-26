@@ -3,6 +3,10 @@
 [файл](https://docs.google.com/document/d/1UzpvRNEQiYhADNuPrN1AM5ys72KEs7A1y0EMZfrCERs/edit?usp=sharing)
 
 ---
+![image](https://github.com/DumSp1ro/DemoEkz/assets/146105715/4ead0504-a3ab-4c1f-a66d-ca1b83fa4d39)
+
+---
+
 
 1. Диаграмма</br>
 Изучить описание предметной области: [Турагенство](https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/0%20WorldSkills/1_Use%20Case/Описание%20ПО.docx); [Глазки-Save](https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/2%20задание%20Глазки-Save/Общие%20ресурсы/Введение%20ПО_G.pdf); [Свияжские холмы](https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/7%20задание%202022/09_1.2-2022_8/Вариант%208/Свияжские%20холмы/Общие%20ресурсы/Описание%20предметной%20области.pdf); [ООО "Руль"](https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/9%20задание%202023/КОД%201.1%202023-2025%20ВАРИАНТ%203.rar)</br>
