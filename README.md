@@ -1,6 +1,4 @@
 ![image](https://github.com/DumSp1ro/DemoEkz/assets/146105715/11f10e22-adb7-4e00-9ac5-91109960d3ea)
-![image](https://github.com/DumSp1ro/DemoEkz/assets/146105715/ff4310c3-b49a-4db9-9bc9-272b0d6a8998)
-![image](https://github.com/DumSp1ro/DemoEkz/assets/146105715/7e40f8cd-da2b-42b4-8a3c-4d317312ab95)
 
 
 [тыкнуть](https://drive.google.com/drive/folders/1qhswamR6csTjEKSsXQXTGeW_ZVC2LK1t?usp=sharing)
