@@ -1,3 +1,5 @@
+[Видео](https://drive.google.com/drive/folders/1qhswamR6csTjEKSsXQXTGeW_ZVC2LK1t?usp=drive_link)
+
 На демоэкзамене требуется создать БД в 3НФ(нормальной форме)</br>
 
 1НФ: одна ячейка = одно значение</br>
