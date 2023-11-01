@@ -1,8 +1,8 @@
 <img alt="alt_text" width="750px" src="https://github.com/DumSp1ro/DemoEkz/assets/146105715/11f10e22-adb7-4e00-9ac5-91109960d3ea"/>
 
-[тыкнуть](https://drive.google.com/drive/folders/1qhswamR6csTjEKSsXQXTGeW_ZVC2LK1t?usp=sharing)
+[Тыкнуть](https://drive.google.com/drive/folders/1qhswamR6csTjEKSsXQXTGeW_ZVC2LK1t?usp=sharing)
 
-[файл](https://docs.google.com/document/d/1UzpvRNEQiYhADNuPrN1AM5ys72KEs7A1y0EMZfrCERs/edit?usp=sharing)
+[Файл](https://docs.google.com/document/d/1UzpvRNEQiYhADNuPrN1AM5ys72KEs7A1y0EMZfrCERs/edit?usp=sharing)
 
 [Демоэкзамен](https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/edit)
 
