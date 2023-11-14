@@ -6,6 +6,8 @@
 
 [Демоэкзамен](https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/edit)
 
+[Практика](https://drive.google.com/drive/folders/1vw4iGXT9cfTlHrPyX1Wh2a5nsePTX9hb?usp=drive_link)
+
 ---
 
 
