@@ -1,4 +1,4 @@
-[YouTube](https://www.youtube.com/playlist?list=PLl0L3tHlGkZTMliUHMy3IbuqHdLsBku3u)
+[YouTube](https://www.youtube.com/playlist?list=PLl0L3tHlGkZTFrJWKjWf8jGjKjX9Gfdc-)
 
 [ПрактикаYT](https://www.youtube.com/playlist?list=PLl0L3tHlGkZQlQ0hpyWN3TP4AuqrW9AYl)
 
