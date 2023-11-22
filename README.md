@@ -1,4 +1,4 @@
-<img alt="alt_text" width="750px" src="https://github.com/DumSp1ro/DemoEkz/assets/146105715/11f10e22-adb7-4e00-9ac5-91109960d3ea"/>
+[YouTube](https://www.youtube.com/playlist?list=PLl0L3tHlGkZTMliUHMy3IbuqHdLsBku3u)
 
 [Тыкнуть](https://drive.google.com/drive/folders/1qhswamR6csTjEKSsXQXTGeW_ZVC2LK1t?usp=sharing)
 
