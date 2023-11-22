@@ -1,5 +1,7 @@
 [YouTube](https://www.youtube.com/playlist?list=PLl0L3tHlGkZTMliUHMy3IbuqHdLsBku3u)
 
+[ПрактикаYT](https://www.youtube.com/playlist?list=PLl0L3tHlGkZQlQ0hpyWN3TP4AuqrW9AYl)
+
 [Тыкнуть](https://drive.google.com/drive/folders/1qhswamR6csTjEKSsXQXTGeW_ZVC2LK1t?usp=sharing)
 
 [Файл](https://docs.google.com/document/d/1UzpvRNEQiYhADNuPrN1AM5ys72KEs7A1y0EMZfrCERs/edit?usp=sharing)
