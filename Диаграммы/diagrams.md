@@ -18,10 +18,10 @@
 Руль
 ---
 
-![image](https://github.com/DumSp1ro/DemoEkzamen/assets/146105715/88e04526-ae74-4579-b33e-36b76bcded06)
-![image](https://github.com/DumSp1ro/DemoEkzamen/assets/146105715/19e02498-4acb-43c1-b3e7-cc8a397c9545)
-![image](https://github.com/DumSp1ro/DemoEkzamen/assets/146105715/40b6c7ea-6700-4ded-9f02-ad51c2ac61be)
-![image](https://github.com/DumSp1ro/DemoEkzamen/assets/146105715/47e65662-dbf8-4838-9b47-dbf4b3028c0c)
+![image](https://github.com/DumSp1ro/DemoEkz/assets/146105715/323bc472-ef42-4f08-a443-b8dd18690ea6)
+![image](https://github.com/DumSp1ro/DemoEkz/assets/146105715/8b23bfcf-34c7-4d5f-b79f-ba2505b9ba03)
+![image](https://github.com/DumSp1ro/DemoEkz/assets/146105715/dce455af-99f6-4e9d-9cf8-0cf681df12b2)
+![image](https://github.com/DumSp1ro/DemoEkz/assets/146105715/0b60310d-9587-4322-80c8-e8dbee4dcd43)
 
 ---
 Свияжские хомлы
